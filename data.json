@@ -425,10 +425,10 @@
     {
       "id": "a",
       "name": "Group A",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "ITA",
+      "runnerup": "WAL",
+      "thirdplace": "SUI",
+      "fourthplace": "TUR",
       "matches": [
         {
           "id": 1,
@@ -492,12 +492,12 @@
           "matchtype": "group",
           "home_team": "SUI",
           "away_team": "TUR",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 3,
+          "away_result": 1,
           "date": "2021-06-20T18:00:00+02:00",
           "stadium": "OLY",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -506,12 +506,12 @@
           "matchtype": "group",
           "home_team": "ITA",
           "away_team": "WAL",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 0,
           "date": "2021-06-20T18:00:00+02:00",
           "stadium": "STA",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -519,10 +519,10 @@
     {
       "id": "b",
       "name": "Group B",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "BEL",
+      "runnerup": "DEN",
+      "thirdplace": "FIN",
+      "fourthplace": "RUS",
       "matches": [
         {
           "id": 3,
@@ -586,12 +586,12 @@
           "matchtype": "group",
           "home_team": "RUS",
           "away_team": "DEN",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 4,
           "date": "2021-06-21T21:00:00+02:00",
           "stadium": "PAR",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -600,12 +600,12 @@
           "matchtype": "group",
           "home_team": "FIN",
           "away_team": "BEL",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 2,
           "date": "2021-06-21T21:00:00+02:00",
           "stadium": "KRE",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -613,10 +613,10 @@
     {
       "id": "c",
       "name": "Group C",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "NED",
+      "runnerup": "AUT",
+      "thirdplace": "UKR",
+      "fourthplace": "MAC",
       "matches": [
         {
           "id": 6,
@@ -680,12 +680,12 @@
           "matchtype": "group",
           "home_team": "MAC",
           "away_team": "NED",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 3,
           "date": "2021-06-21T18:00:00+02:00",
           "stadium": "JOH",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -694,12 +694,12 @@
           "matchtype": "group",
           "home_team": "UKR",
           "away_team": "AUT",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 1,
           "date": "2021-06-21T18:00:00+02:00",
           "stadium": "NAT",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -707,10 +707,10 @@
     {
       "id": "d",
       "name": "Group D",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "ENG",
+      "runnerup": "CRO",
+      "thirdplace": "CZE",
+      "fourthplace": "SCO",
       "matches": [
         {
           "id": 7,
@@ -774,12 +774,12 @@
           "matchtype": "group",
           "home_team": "CRO",
           "away_team": "SCO",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 3,
+          "away_result": 1,
           "date": "2021-06-22T21:00:00+02:00",
           "stadium": "HAM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -788,12 +788,12 @@
           "matchtype": "group",
           "home_team": "CZE",
           "away_team": "ENG",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 1,
           "date": "2021-06-22T21:00:00+02:00",
           "stadium": "WEM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -801,10 +801,10 @@
     {
       "id": "e",
       "name": "Group E",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "SWE",
+      "runnerup": "ESP",
+      "thirdplace": "SLO",
+      "fourthplace": "POL",
       "matches": [
         {
           "id": 10,
@@ -854,12 +854,12 @@
           "matchtype": "group",
           "home_team": "ESP",
           "away_team": "POL",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 1,
           "date": "2021-06-19T21:00:00+02:00",
           "stadium": "CAR",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
@@ -868,12 +868,12 @@
           "matchtype": "group",
           "home_team": "SLO",
           "away_team": "ESP",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 0,
+          "away_result": 5,
           "date": "2021-06-23T18:00:00+02:00",
           "stadium": "CAR",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -882,12 +882,12 @@
           "matchtype": "group",
           "home_team": "SWE",
           "away_team": "POL",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 3,
+          "away_result": 2,
           "date": "2021-06-23T18:00:00+02:00",
           "stadium": "KRE",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -895,10 +895,10 @@
     {
       "id": "f",
       "name": "Group F",
-      "winner": null,
-      "runnerup": null,
-      "thirdplace": null,
-      "fourthplace": null,
+      "winner": "FRA",
+      "runnerup": "GER",
+      "thirdplace": "POR",
+      "fourthplace": "HUN",
       "matches": [
         {
           "id": 11,
@@ -948,12 +948,12 @@
           "matchtype": "group",
           "home_team": "POR",
           "away_team": "GER",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 4,
           "date": "2021-06-19T18:00:00+02:00",
           "stadium": "ALL",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "2"
         },
         {
@@ -962,12 +962,12 @@
           "matchtype": "group",
           "home_team": "POR",
           "away_team": "FRA",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 2,
           "date": "2021-06-23T21:00:00+02:00",
           "stadium": "PUS",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         },
         {
@@ -976,12 +976,12 @@
           "matchtype": "group",
           "home_team": "GER",
           "away_team": "HUN",
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 2,
           "date": "2021-06-23T21:00:00+02:00",
           "stadium": "ALL",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "3"
         }
       ]
@@ -996,7 +996,7 @@
           "id": 37,
           "name": "37",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1007,24 +1007,24 @@
               "group": "c"
             }
           },
-          "home_team": null,
-          "away_team": null,
-          "home_result": null,
-          "away_result": null,
+          "home_team": "ITA",
+          "away_team": "AUT",
+          "home_result": 2,
+          "away_result": 1,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
+          "winner": "ITA",
           "date": "2021-06-26T21:00:00+02:00",
           "stadium": "WEM",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
           "id": 38,
           "name": "38",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "runnerup",
@@ -1035,24 +1035,24 @@
               "group": "b"
             }
           },
-          "home_team": null,
-          "away_team": null,
-          "home_result": null,
-          "away_result": null,
+          "home_team": "WAL",
+          "away_team": "DEN",
+          "home_result": 0,
+          "away_result": 4,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
+          "winner": "DEN",
           "date": "2021-06-26T18:00:00+02:00",
           "stadium": "JOH",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
           "id": 39,
           "name": "39",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1063,24 +1063,24 @@
               "group": "A/D/E/F"
             }
           },
-          "home_team": null,
-          "away_team": null,
-          "home_result": null,
-          "away_result": null,
+          "home_team": "BEL",
+          "away_team": "POR",
+          "home_result": 1,
+          "away_result": 0,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
+          "winner": "BEL",
           "date": "2021-06-27T21:00:00+02:00",
           "stadium": "CAR",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
           "id": 40,
           "name": "40",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1091,24 +1091,24 @@
               "group": "D/E/F"
             }
           },
-          "home_team": null,
-          "away_team": null,
-          "home_result": null,
-          "away_result": null,
+          "home_team": "NED",
+          "away_team": "CZE",
+          "home_result": 0,
+          "away_result": 2,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
+          "winner": "CZE",
           "date": "2021-06-27T18:00:00+02:00",
           "stadium": "PUS",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
           "id": 41,
           "name": "41",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1119,24 +1119,24 @@
               "group": "A/B/C"
             }
           },
-          "home_team": null,
-          "away_team": null,
-          "home_result": null,
-          "away_result": null,
-          "home_penalty": null,
-          "away_penalty": null,
-          "winner": null,
+          "home_team": "FRA",
+          "away_team": "SUI",
+          "home_result": 3,
+          "away_result": 3,
+          "home_penalty": 4,
+          "away_penalty": 5,
+          "winner": "SUI",
           "date": "2021-06-28T21:00:00+02:00",
           "stadium": "NAT",
           "tvchannels": [],
-          "finished": false,
+          "finished": true,
           "matchday": "4"
         },
         {
           "id": 42,
           "name": "42",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "runnerup",
@@ -1147,13 +1147,13 @@
               "group": "e"
             }
           },
-          "home_team": null,
-          "away_team": null,
-          "home_result": null,
-          "away_result": null,
+          "home_team": "CRO",
+          "away_team": "ESP",
+          "home_result": 3,
+          "away_result": 5,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
+          "winner": "ESP",
           "date": "2021-06-28T18:00:00+02:00",
           "stadium": "PAR",
           "tvchannels": [],
@@ -1164,7 +1164,7 @@
           "id": 43,
           "name": "43",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1175,8 +1175,8 @@
               "group": "A/B/C/D"
             }
           },
-          "home_team": null,
-          "away_team": null,
+          "home_team": "SWE",
+          "away_team": "UKR",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1192,7 +1192,7 @@
           "id": 44,
           "name": "44",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1203,8 +1203,8 @@
               "group": "f"
             }
           },
-          "home_team": null,
-          "away_team": null,
+          "home_team": "ENG",
+          "away_team": "GER",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1226,7 +1226,7 @@
           "id": 45,
           "name": "45",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1237,8 +1237,8 @@
               "match": 42
             }
           },
-          "home_team": null,
-          "away_team": null,
+          "home_team": "SUI",
+          "away_team": "ESP",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1254,7 +1254,7 @@
           "id": 46,
           "name": "46",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1265,8 +1265,8 @@
               "match": 37
             }
           },
-          "home_team": null,
-          "away_team": null,
+          "home_team": "BEL",
+          "away_team": "ITA",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
@@ -1282,7 +1282,7 @@
           "id": 47,
           "name": "47",
           "matchtype": "knockout",
-          "teams_found": false,
+          "teams_found": true,
           "qualification": {
             "home_team": {
               "qualificationtype": "winner",
@@ -1293,8 +1293,8 @@
               "match": 38
             }
           },
-          "home_team": null,
-          "away_team": null,
+          "home_team": "CZE",
+          "away_team": "DEN",
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
